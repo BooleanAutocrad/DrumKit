@@ -78,3 +78,5 @@ function buttonAnimation(currKey)
         activeButton.classList.remove("pressed");
     },250);
 }
+
+//Link: https://booleanautocrad.github.io/DrumKit/
